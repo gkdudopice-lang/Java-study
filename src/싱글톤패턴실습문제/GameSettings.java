@@ -14,4 +14,5 @@ public class GameSettings {
     static GameSettings getGameSettings(){
         return gameSettings;
     }
+
 }
